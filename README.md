@@ -1,3 +1,4 @@
 # Fun Projects
 
-- [Cursor Moving Animation](link-to-your-project)
+- [Cursor Moving Animation](https://yourusername.github.io/your-repository-name/)
+
