@@ -4,6 +4,6 @@
 
 ---
 
-### 🌟 [**Mouse Trail Effect**](https://funprojects02.onrender.com)
+### 🖱️ [**Mouse Trail Effect**](https://funprojects02.onrender.com)
 
 ---
