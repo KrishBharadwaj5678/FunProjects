@@ -1,4 +1,5 @@
 # 🌟 Fun Projects 🌟
 
-- [Cursor Moving Animation](https://funprojects01.onrender.com)
+## 🎨 **Cursor Moving Animation** ✨
+🔗 [Try it out here!](https://funprojects01.onrender.com)
 
