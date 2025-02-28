@@ -20,5 +20,4 @@ document.addEventListener("mousemove",(e)=>{
       span.style.filter = `hue-rotate(${y + index * 18}deg)`;
     },delay)
   })
- 
 })
