@@ -7,3 +7,7 @@
 ### ✨ [**Mouse Trail Effect**](https://funprojects02.onrender.com)
 
 ---
+
+### ✨ [**Corner Cutout Effect**](https://funprojects03.onrender.com)
+
+---
