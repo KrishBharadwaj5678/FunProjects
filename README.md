@@ -11,3 +11,7 @@
 ### 🔲 [**Corner Cutout Effect**](https://funprojects03.onrender.com)
 
 ---
+
+### 🔲 [**HoneyComb Grid Effect**](https://funprojects03.onrender.com)
+
+---
