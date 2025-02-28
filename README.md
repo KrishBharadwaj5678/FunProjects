@@ -8,6 +8,6 @@
 
 ---
 
-### ✨ [**Corner Cutout Effect**](https://funprojects03.onrender.com)
+### 🔲 [**Corner Cutout Effect**](https://funprojects03.onrender.com)
 
 ---
