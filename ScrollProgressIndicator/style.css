@@ -1,0 +1,33 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  height: 100vh;
+  font-family: sans-serif;
+  color: #fff;
+  background: #222;
+  cursor: none;
+}
+
+.content{
+  position: relative;
+}
+
+p{
+  color: #888;
+}
+
+#circleIndicator{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  pointer-events: none;
+  z-index: 1000;
+  transform: translate(-50%,-50%);
+}
