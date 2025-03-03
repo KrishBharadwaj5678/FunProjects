@@ -16,6 +16,6 @@
 
 ---
 
-### 🐝 [**HoneyComb Grid Effect**](https://funprojects05.onrender.com)
+### 🖱️ [**Scroll Progress Indicator**](https://funprojects05.onrender.com)
 
 ---
