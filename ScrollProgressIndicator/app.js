@@ -16,7 +16,6 @@ window.addEventListener("scroll",(e)=>{
     let scrollTop = document.documentElement.scrollTop
     let scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
     let scrollPrecent = (scrollTop / scrollHeight) * 100;
-    console.log(scrollTop,scrollHeight,scrollPrecent);
     setProgess(scrollPrecent);
 })
 
