@@ -1,4 +1,4 @@
-let circleIndicator = document.querySelector("#circleIndicator")
+let circleIndicator = document.querySelector("#circleIndicator");
 let circle = circleIndicator.querySelector("circle");
 let textElement = document.querySelector("#scrollPrecentText");
 
@@ -13,7 +13,7 @@ let setProgess = (percent) => {
 }
 
 window.addEventListener("scroll",(e)=>{
-    let scrollTop = document.documentElement.scrollTop
+    let scrollTop = document.documentElement.scrollTop;
     let scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
     let scrollPrecent = (scrollTop / scrollHeight) * 100;
     setProgess(scrollPrecent);
